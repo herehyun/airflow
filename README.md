@@ -259,7 +259,7 @@ Airflow의 작업은 DAG 실행에서 작업을 실행하는 실제 프로세스
 
 Airflow는 workflow 및 작업 실행을 모니터링하기 위한 <mark>웹 기반 UI</mark>를 제공합니다.
 <mark>UI</mark>를 통해 사용자는 DAG를 시각화하고, 작업 로그를 보고, 실행 중인 작업의 진행 상황을 모니터링 할 수 있습니다.
-&darr; 
+&darr; <img width="799" alt="스크린샷 2023-07-13 오전 11 53 19" src="https://github.com/herehyun/airflow/assets/82385436/6713afcc-ac50-454e-8ceb-dd1fb885e4b3">
 
 
 
